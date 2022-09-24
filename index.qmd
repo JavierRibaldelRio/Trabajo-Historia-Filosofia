@@ -1,0 +1,29 @@
+---
+title: "Historia de la filosofía"
+toc: false
+toc-location: body
+
+---
+
+<div id="navegacion">
+<a href="antigua.qmd" role="button" class="btn btn-success">Filosofía Antigua</a>
+<a href="medieval.html" role="button" class="btn btn-danger">Filosofía Medieval</a>
+<br>
+<a href="moderna.html" role="button" class="btn btn-warning">Filosofía Moderna</a>
+<a href="conte.html" role="button" class="btn btn-info">La contemporaneidad</a>
+</div>
+
+<br>
+
+
+<button type="button" class="btn btn-primary">Primary</button>
+<button type="button" class="btn btn-secondary">Secondary</button>
+<button type="button" class="btn btn-success">Success</button>
+<button type="button" class="btn btn-danger">Danger</button>
+<button type="button" class="btn btn-warning">Warning</button>
+<button type="button" class="btn btn-info">Info</button>
+<button type="button" class="btn btn-light">Light</button>
+<button type="button" class="btn btn-dark">Dark</button>
+
+
+<button type="button" class="btn btn-link">Link</button>

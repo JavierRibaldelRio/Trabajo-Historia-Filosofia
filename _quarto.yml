@@ -1,0 +1,37 @@
+project:
+  type: website
+
+website:
+  title: "Historia de la Filosofía"
+  search: false
+  navbar:
+    right:
+      - href: antigua.qmd
+        text: Filosofía Antigua
+      - href: medieval.qmd
+        text: Filosofía Medieval
+      - href: moderna.qmd
+        text: Filosofía Moderna
+      - href: conte.qmd
+        text: Contemporaneidad
+
+  page-footer:
+    left: "Javier Ribal del Río, Sergio Grau Alegre, Matteo Bozzo Solar, Sergio Manso Barrera"
+    right: "Filosofía 1º Bachillerato A"
+    background: "dark"
+    border: true
+
+format:
+  html:
+    theme: minty
+    css: styles.css
+    toc: true
+
+    toc-title: Índice
+    toc-location: left
+    number-sections: true
+    code-overflow: wrap
+    highlight-style: arrowç
+
+execute:
+  freeze: auto
