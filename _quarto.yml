@@ -1,6 +1,9 @@
 project:
   type: website
 
+execute:
+  freeze: auto
+
 website:
   title: "Historia de la Filosofía"
   search: false
@@ -32,6 +35,3 @@ format:
     number-sections: true
     code-overflow: wrap
     highlight-style: arrowç
-
-execute:
-  freeze: auto
