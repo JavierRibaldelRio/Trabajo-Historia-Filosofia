@@ -8,7 +8,7 @@ La Edad Moderna es el perido de tiempo comprendido entre el siglo XV y el siglo 
 
 Económicamente y socialmente, la aparición de la Burguesía (nueva clase social de artesanos enriquecidos con el comercio) es lo más destacable. Estos tratarán de acceder al poder en varias ocasiones hasta conseguirlo con la revolución Francesa. Además, con la conquista de América, surgirá el comercio triangular. Mediente el cual, Europa se enriquecerá a costa de África y América.
 
-<!-- ![El descubrimiento de América](img/Conquist.jpg) -->
+![El descubrimiento de América](img/Conquist.jpg)
 
 
 Por un lado, en la política, la monarquía absolutista predominará durante todo el periodo, hasta la aparición de la Ilustración.
