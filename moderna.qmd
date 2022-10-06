@@ -8,14 +8,14 @@ La Edad Moderna es el perido de tiempo comprendido entre el siglo XV y el siglo 
 
 Económicamente y socialmente, la aparición de la Burguesía (nueva clase social de artesanos enriquecidos con el comercio) es lo más destacable. Estos tratarán de acceder al poder en varias ocasiones hasta conseguirlo con la revolución Francesa. Además, con la conquista de América, surgirá el comercio triangular. Mediente el cual, Europa se enriquecerá a costa de África y América.
 
-![El descubrimiento de América](img/Conquist.jpg)
+<!-- ![El descubrimiento de América](img/Conquist.jpg) -->
 
 
 Por un lado, en la política, la monarquía absolutista predominará durante todo el periodo, hasta la aparición de la Ilustración.
 
 Por otro lado en las artes,  con el Renacimiento tratará de volver a la estética de los clásicos griegos de la edad antigua: la busqueda de la belleza y el equilibrio son sus características principales. Posteriormente a mediados del siglo XVII en Europa irrumpirá el Barroco, donde predomina la actitud pesimista y la búsqueda de los contrastes. Finalmente, tenemos el Clasicismo que trata de revertir los cambios del Barroco, volviendo a los valores del Renacimiento: Renacimiento y Clacisismo son bastantes similares, de hecho en algunos idiomas este periodo es conocido como "Neo-renacimiento" o segundo Renacimiento.
 
-![La creación divina: obra representativa del Renacimiento](img/sixtina.jpg)
+<!-- ![La creación divina: obra representativa del Renacimiento](img/sixtina.jpg) -->
 
 Al final de esta etapa aparece, en Europa, la Ilustración: un movimiento impulsado por los filósofos ilustrados, que promueven el uso de la razón como medio para progresar. Este periodo será impulsado por la Burguesía y Rousseau será uno de los máximos representantes.
 
