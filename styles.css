@@ -2,3 +2,153 @@
 #navegacion a {
     margin: 5vmin;
 }
+
+img {
+
+    width: auto;
+
+    max-height: 50vh;
+}
+
+figcaption {
+
+    text-align: center;
+}
+
+.flex {
+
+    display: flex;
+
+    gap: 10vw;
+
+    align-items: center;
+
+}
+
+.sec {
+
+    opacity: 1;
+
+    padding: 5vmin;
+}
+
+.sec:hover {
+
+    animation-name: example;
+    animation-duration: 2s;
+
+    border-radius: 15vmin;
+
+    background-color: whitesmoke;
+}
+
+@keyframes example {
+    from {
+        background-color: white;
+    }
+
+    to {
+        background-color: whitesmoke;
+    }
+}
+
+#soc:hover {
+
+    animation: invertir 6s;
+    filter: invert(100%) blur(2px);
+
+}
+
+
+@keyframes invertir {
+    from {
+        filter: invert(0%) blur(0px);
+    }
+
+    to {
+        filter: invert(100%) blur(2px);
+    }
+}
+
+.boecio {
+
+    background-image: url('/img/Boencio.jpg');
+
+    display: flex;
+    background-size: contain;
+    height: 75vh;
+
+    justify-content: center;
+
+    align-items: center;
+
+
+
+
+}
+
+.boecio a {
+
+    filter: grayscale(0%) !important;
+}
+
+.boecio:hover {
+    animation: boe 4s;
+
+
+    filter: grayscale(80%);
+}
+
+@keyframes boe {
+    from {
+        filter: grayscale(0%);
+    }
+
+    to {
+        filter: grayscale(80%)
+    }
+}
+
+
+.ross {
+
+    background-image: url('/img/Ilus.jpg');
+    filter: grayscale(70%) saturate(12%) brightness(50%) contrast(100%);
+
+    gap: 10vh;
+
+    justify-content: center;
+
+
+    display: flex;
+
+    height: 75vh;
+
+    background-size: cover;
+
+}
+
+.ross a {
+
+    margin-top: 7.5vh;
+}
+
+
+.ross:hover {
+
+    animation: ilus 4s;
+
+    filter: grayscale(0%) saturate(120%) brightness(100%) contrast(140%);
+}
+
+@keyframes ilus {
+
+    from {
+        filter: grayscale(70%) saturate(12%) brightness(50%) contrast(100%)
+    }
+
+    to {
+        filter: grayscale(0%) saturate(120%) brightness(100%) contrast(140%);
+
+    }
+}

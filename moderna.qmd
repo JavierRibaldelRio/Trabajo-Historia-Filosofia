@@ -21,7 +21,13 @@ Al final de esta etapa aparece, en Europa, la Ilustración: un movimiento impuls
 
 # Biografía
 
-"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.""Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, ssunt in culpa qui officia deserunt mollit anim id est laborum.""Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+Jean-Jacques Rousseau nació el 28 de Junio de 1712 en Ginebra (Suiza). Fue criado por su tío paterno, del cual heredó la afición por la lectura, que le marcaria a lo largo de toda su vida. Con 16 años conoció a Madame de Warens, quien le ayudó en sus estudios y le aficionó a la música. Además gracias a ella pudo conocer a el filósofo inglés Diderot; años más tarde Rousseau afirmaría que fue como la madre que nunca tuvo. Durante unos años trabajó como peridista. En 1745 se casa con Thérèse Levasseur, una modista analfabeta, tuvó 5 hijos y los ingresó a todos en un orfanato para evitar que los educase su familia política. En 1749 conoció a Voltaire (otro de los principales filósofos ilustrados).
+
+![Jean-Jacques Rousseau](/img/ross.jpg)
+
+En la decada de 1750 a 1760, Rosseau, se dedicará sobre todo en la música. Primero se copiará partituras musicales y  después estrenará varias operas. Pero, en 1755 publicará un escrito declarando, la guerra a la iglesia Católica y a Voltaire, a este último le mandará una copia a su casa. Años más tarde en 1762 publicará un escrito que le hará ganarse el odio del pueblo francés.
+
+Durante los últimos años de su vida se exiliará en Inglaterra con su mujer, gracias a una ayuda monetaria del rey Jorge III. Finalmente, antes de morir le permitirán volver a Francia con la con la condición de no publicar. Sus últimos días los dedicará a la Botánica. Morirá en 1778 en Ermenonville, de un paro cardíaco, con 66 años.
 
 # Filosofía
 

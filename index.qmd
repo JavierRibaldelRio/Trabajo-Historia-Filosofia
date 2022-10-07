@@ -2,18 +2,49 @@
 title: "Historia de la filosofía"
 toc: false
 toc-location: body
-
 ---
 
+
+<div id="anti" class="sec">
+
+## Filosofía Antigua: Socrates
+
+<div class="flex">
+
+<img id="soc" src="img/socrates.png">
+
+<a href="antigua.qmd" role="button" class="btn btn-danger">Info +</a>
+</div>
+</div>
+
+
+## Filosofía Medieval: Boecio
+
+<div class="boecio" >
+
+<a href="medieval.qmd" role="button" class="btn btn-danger">Info +</a>
+</div>
+
+## Filosofía Moderna: Rousseau
+
+<div class="ross" >
+
+<a href="moderna.qmd" role="button" class="btn btn-light">Info +</a>
+</div>
+
 <div id="navegacion">
-<a href="antigua.qmd" role="button" class="btn btn-success">Filosofía Antigua</a>
-<a href="medieval.html" role="button" class="btn btn-danger">Filosofía Medieval</a>
+ <a href="medieval.html" role="button" class="btn btn-danger">Filosofía Medieval</a>
 <br>
 <a href="moderna.html" role="button" class="btn btn-warning">Filosofía Moderna</a>
 <a href="conte.html" role="button" class="btn btn-info">La contemporaneidad</a>
 </div>
 
+
 <br>
+
+
+
+
 
 
 <button type="button" class="btn btn-primary">Primary</button>
