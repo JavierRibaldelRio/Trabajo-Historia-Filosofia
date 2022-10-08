@@ -31,7 +31,39 @@ Durante los últimos años de su vida se exiliará en Inglaterra con su mujer, g
 
 # Filosofía
 
+Rousseau, a nivel filosófico es famoso por dos ámbitos, el ámbito social en general y el ámbito de la educación. Sin embargo, antes de explicar el ámbito social hace falta explicar la forma de pensar de Rousseau, acerca del ser humano y la Naturaleza.
+
+## El Ser Humano y la Naturaleza
+
+Rousseau pensaba que el ser humano vive en harmonia con la naturaleza. El ser humano no manda sobre la naturaleza, ya que el humano en su forma original, no razona, es inocente; solo piensa en el amor. El ser humano vive en la naturaleza.
+
+ Sin embargo con la aparición de la sociedad, el humano, es corrompido, ahora ya no le mueve el amor, sino el odio. Además, la sociedad crea una mascara para la humanidad, bajo la cual tienen que ocultar que han sido corrompidos. Pero también la utilizan para evadirse de la cruda realidad. 
+
+ Finalmente, el autor piensa que en el pasado eran, más libres que ahora, ya que ahora se encuentran con los limites que les  impone la sociedad
+
+
+![Naturaleza](img/Nat.jpg)
+
+
+## Ámbito Social
+
+Rousseau, habla del **Contrato Social**. El individuo desaparece y se fusiona con la sociedad, para poder sobrevivir. Como el ser humano no puede volver al estado de harmonia de la naturaleza, decide unirse a la voluntad colectiva de la socied, la voluntad indiviual desaparece. La **justicia** sustituye a la libertad. Además, obedecer las normas que te impone la sociedad, es obederse a uno mismo, ya tu eres de la sociedad Pero hay que tener cuidado, ya que una cosa es la voluntad general, es la que dice la asamblea, mientras que la voluntad general es la del gobernante.
+
+Finalmente, según el autor, el gobernante aparece para representar a cada uno de los individuos de la sociedad.
+
+> Si hubiera una nación de dioses, éstos se gobernarían democráticamente; pero un gobierno tan perfecto no es adecuado para los hombres
+
+## Ámbito Educativo
+
+Rousseau opina que el sistema educativo tradicional es erroneo, ya que destruye los instintos naturales de los seres humanos que nos proporcionan la bondad. La educación tiene que impulsar los sentimientos, la libertad, los instintos y la intuición. El estudiante tiene que ser el que se esfuerze en aprender, no el profesor se tiene que esforzar en que el alumno aprenda. Dentro de su proceso educativo también se ha de potenciar el uso de los sentidos. Además el alumno nunca tiene que recibir ningun castigo.
+
 ## Obras
+
+- **La Nueva Eloísa:**
+- **El Contrato Social**
+- Emilo o De la educación:
+- Confessiones de Rousseau
+- Ensoñaciones de un Paseante Solitario:
 
 ## Rivales Históricos
 
