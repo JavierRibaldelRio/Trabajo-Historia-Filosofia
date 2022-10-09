@@ -75,7 +75,7 @@ figcaption {
     background-image: url('/img/Boencio.jpg');
 
     display: flex;
-    background-size: contain;
+    background-size: cover;
     height: 75vh;
 
     justify-content: center;
