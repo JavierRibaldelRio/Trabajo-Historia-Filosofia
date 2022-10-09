@@ -47,7 +47,7 @@ Rousseau pensaba que el ser humano vive en harmonia con la naturaleza. El ser hu
 
 ## Ámbito Social
 
-Rousseau, habla del **Contrato Social**. El individuo desaparece y se fusiona con la sociedad, para poder sobrevivir. Como el ser humano no puede volver al estado de harmonia de la naturaleza, decide unirse a la voluntad colectiva de la socied, la voluntad indiviual desaparece. La **justicia** sustituye a la libertad. Además, obedecer las normas que te impone la sociedad, es obederse a uno mismo, ya tu eres de la sociedad Pero hay que tener cuidado, ya que una cosa es la voluntad general, es la que dice la asamblea, mientras que la voluntad general es la del gobernante.
+Rousseau, habla del **Contrato Social**. El individuo desaparece y se fusiona con la sociedad, para poder sobrevivir. Como el ser humano no puede volver al estado de harmonia de la naturaleza, decide unirse a la voluntad colectiva de la socied, la voluntad indiviual desaparece. La **justicia** sustituye a la libertad. Además, obedecer las normas que te impone la sociedad, es obederse a uno mismo, ya tu eres de la sociedad Pero hay que tener cuidado, ya que una cosa es la **voluntad general**, es la que dice la asamblea, mientras que la voluntad general es la del gobernante.
 
 Finalmente, según el autor, el gobernante aparece para representar a cada uno de los individuos de la sociedad.
 
@@ -59,13 +59,23 @@ Rousseau opina que el sistema educativo tradicional es erroneo, ya que destruye 
 
 ## Obras
 
-- **La Nueva Eloísa:** Una alumna de clase socia alta se enamora de su profresor, de clase social baja
-- **El Contrato Social:** Comprende 4 libros, tratan de la relación entre las libertades  de los individuos, con el estado, mediante el contrato social. En este libro define voluntad general
-- **Emilo o De la educación:**
-- **Confessiones de Rousseau:**
-- **Ensoñaciones de un Paseante Solitario:**
+- **La Nueva Eloísa:** una alumna de clase socia alta se enamora de su profresor, de clase social baja
+- **El Contrato Social:** comprende 4 libros, tratan de la relación entre las libertades  de los individuos, con el estado, mediante el contrato social. En este libro define **voluntad general**
+- **Emilo o De la educación:** 5 tomos que habla de como sería la educación ideal de Rousseau para formar *Buenos ciudadanos*
+- **Confessiones de Rousseau:** memorias de Rousseau, para que el autor lo juzge
+- **Ensoñaciones de un Paseante Solitario:** 9 de 10 capítulos que Rousseauquería escribir complementando a la obra anterior. Se publico en 1782, 5 años despues de su muerte
+
+!["Du Contract Social"](/img/contrato.jpg)
 
 ## Rivales Históricos
+- **Voltaire:** tenian diferencias ideológicas acerca de Dios. También gran parte de su ribalidad, es a causa de que Rousseau considerava que el hombre era bueno por naturaleza. Difundió la idea de que Rousseau padecía Sífilis<br>
+- **Hume:** son completamente distintos, se dice que la ribalidad entre Rousseau y Hume impulsaría mucho la creación filosófica de este último
+
+
+> Mientras que la visión de Hume era poco arriesgada, moderada, Rousseau era por instinto rebelde; Hume era un optimista, Rousseau un pesimista. Hume era gregario, Rousseau, un solitario. Rousseau se deleitaba en la paradoja; Hume reverenciaba la claridad. El lenguaje de Rousseau era pirotécnico y emotivo; el de Hume, directo y desapasionado
+
+
+- **Diderot:** al principio fueron amigos, sin embargo Rousseau gano el concuro de la Academia de *Dijon* en 1750, en un ensayo sobre si las ciencias y las artes han corrompido a la sociedad, separandonos de la naturaleza. Este ensayo rompía con todas las principales ideas de los  ilustrados, ya que ellos sustentaban sus teórias en el uso de la razón o ciencia
 
 # Legado en la actualidad
 ## Curiosidades
