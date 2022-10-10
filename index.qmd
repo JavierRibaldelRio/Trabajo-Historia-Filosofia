@@ -7,11 +7,11 @@ toc-location: body
 
 <div id="anti" class="sec">
 
-## Filosofía Antigua: Socrates
+## Filosofía Antigua: Pitágoras
 
 <div class="flex">
 
-<img id="soc" src="img/socrates.png">
+<div id="soc"> </div>
 
 <a href="antigua.qmd" role="button" class="btn btn-danger">Info +</a>
 </div>
@@ -27,7 +27,7 @@ toc-location: body
 
 ## Filosofía Moderna: Rousseau
 
-<div class="ross" >
+<div class="ross">
 
 <a href="moderna.qmd" role="button" class="btn btn-light">Info +</a>
 </div>

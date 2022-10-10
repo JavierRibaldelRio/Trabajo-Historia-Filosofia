@@ -42,31 +42,60 @@ figcaption {
     background-color: whitesmoke;
 }
 
-@keyframes example {
-    from {
-        background-color: white;
-    }
+#soc {
 
-    to {
-        background-color: whitesmoke;
-    }
+    display: flex;
+
+    height: 65vh;
+
+    width: 90vw;
+
+
+
+    background-image: no-repeat;
+    background-image: fixed;
+    background-image: center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+    animation: carrusel ease;
+
+    animation-iteration-count: infinite;
+
+    animation-duration: 6s;
+
+
 }
 
-#soc:hover {
-
-    animation: invertir 6s;
-    filter: invert(100%) blur(2px);
-
-}
 
 
-@keyframes invertir {
-    from {
-        filter: invert(0%) blur(0px);
+
+
+@keyframes carrusel {
+    0% {
+        background-image: url('/img/Carrusel_Pit/goras.png');
     }
 
-    to {
-        filter: invert(100%) blur(2px);
+    20% {
+        background-image: url('/img/Carrusel_Pit/Pitaforas.gif');
+    }
+
+    40% {
+        background-image: url('/img/Carrusel_Pit/Fractal.png');
+    }
+
+    60% {
+        background-image: url('/img/Carrusel_Pit/Pitg.png');
+    }
+
+    40% {
+        background-image: url('/img/Carrusel_Pit/Penta.png');
+    }
+
+    100% {
+        background-image: url('/img/Carrusel_Pit/goras.png');
     }
 }
 
