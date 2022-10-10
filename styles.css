@@ -30,21 +30,6 @@ figcaption {
     opacity: 1;
 
     padding: 5vmin;
-
-
-    background-image: no-repeat;
-    background-image: fixed;
-    background-image: center;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-
-    animation: carrusel ease;
-
-    animation-iteration-count: infinite;
-
-    animation-duration: 8s;
 }
 
 .sec:hover {
@@ -67,6 +52,19 @@ figcaption {
 
 
 
+    background-image: no-repeat;
+    background-image: fixed;
+    background-image: center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+    animation: carrusel ease;
+
+    animation-iteration-count: infinite;
+
+    animation-duration: 6s;
 
 
 }
