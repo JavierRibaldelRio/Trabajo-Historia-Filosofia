@@ -7,7 +7,7 @@ La Edad Contemporánea es el nombre asignado al periodo histórico que esta comp
 
 El siglo XX está marcado por los notables avances de la tecnología, medicina y ciencia. Todo esto gracias al creciente desarrollo de la industria. Por otro lado, también sucedieron varias crisis y despotismos que desencadenaron en Guerras Mundiales, genocidios y generalizaciones del desempleo y la pobreza. Generando así grandes desigualdades en cuanto al desarrollo social, económico y tecnológico.
 
- ![ La Primera Guerra Mundial](/img/met.jpg)  
+ ![ La Primera Guerra Mundial](/img/met.jpg) 
 
 
 Con respecto al arte de este siglo, se destaca la vanguardia artística, avanzando hacia la ciencia, la tecnología y otras ramas literarias. Esta se ve influenciada por la política y la sociedad del momento. Las Guerras Mundiales marcan un tema tenso e inestable. Mientras que las crisis europeas y la Gran Depresión impactan creando movimientos artísticos de protesta. Además, se dan cambios muy acelerados, donde los progresos la mencionados dejan avances como el automóvil, el avión, la televisión, la llegada del hombre a la Luna, etc. 
@@ -18,22 +18,53 @@ Con respecto al arte de este siglo, se destaca la vanguardia artística, avanzan
 
 Alisa Zinóvievna Rosenbaum nació el 2 de febrero de 1905 en San Petersburgo (Rusia). Desde muy joven sintió un gran interés por la literatura y el arte cinematográfico, escribiendo novelas y guiones desde los siete años. Fue testigo de varias Revoluciones que le obligaron a escapar a Crimea, por tal de huir de los combates. Al regresar estudió filosofía e historia, graduándose en 1924. Su mayor influencia la recibió de Aristóteles, del cual apreciaba su Órganon. Decidió emigrar a Nueva York por las películas estadounidenses. Años más tarde escribió *Los que vivimos*, un relato sobre la atmósfera de la Rusia soviética. Mientras trabajaba en Hollywood, conoció a Cecil B. De Mille. Gracias a ella trabajó como extra en el metraje *Rey de reyes*, conociendo durante el rodaje a su futuro marido Frank O'Connor. En 1973 dio una conferencia en la West Point, en la que honró a Estados Unidos como el único país moral en la historia del mundo. Un año después la operaron por cáncer de pulmón, causado por su tabaquismo. Finalmente, falleció en 1982 y fue enterrada junto a su marido en el cementerio de Valhalla. Cabe recalcar que la pareja no tuvo hijos.
 
+ ![Ayn Rand](img/anyn.jpg)
+
 
 # Filosofía
+Defendió en todo momento la tesis de que el ser humando debe elegir sus valores y las acciones que toma mediante el uso de razón. Cada individuo debe salvaguardar su existencia sin sacrificarse por los demás ni dejarse sacrificar por otros. De manera que nadie tiene el derecho de imponerse a otros, menos cuando las acciones pueden contradecir la razón.
+Otras ideas que Ayn defendía:
+- El fundamento de los derechos es la vida.
+- Sea cual sea el fin de lo que se quiera obtener, nadie tiene el derecho de usar la fuerza física contra otro ser humano.
+- La realidad existe de forma absolutamente objetiva. Los hechos son hechos sin depender de los sentimientos, deseos o los temores del hombre.
+
+Viendo estas ideologías y pensamientos, se confirman varias ideas que defendía y rechazaba. Siendo defendido el egoísmo nacional, individualismo y el capitalismo. Y, en cambio, rechazado completamente el socialismo, altruismo y la religión. 
+
+Por último, cabe recalcar que desarrolló un sistema filosófico conocido como *objetivismo*. Este presenta posturas propias en metafísica, epistemología, ética, política y estética. Sosteniendo la existencia de una realidad absoluta e independiente de la mente del ser humano. Pues para ella el ser humano, a través de la percepción de los sentidos adquiere conocimiento y procesa los datos por medio de la razón.
 
 ## Obras
 
+Sus obras más conocidas e importantes son:
+
+- ***El manantial***. Es una novela del 1943 que se considera uno de los mayores éxitos literarios de Rand Este, junto con *La rebelión de Atlas*,  le llevaron a la fama y el éxito financiero, llegándose a vender más de 6,5 millones de copias en el mundo. El tema principal de este libro es el individualismo contra el tradicionalismo, pero no en la política, sino en el alma de un hombre. Pero se evita mencionar la política, la economía o los asuntos, a pesar de que se escribió tras suceder la Gran Depresión y durante la Segunda Guerra Mundial.
+
+- ***La rebelión de Atlas***. Esta novela relata una rebelión inventada de los grandes empresarios contra el gobierno y los políticos de los EEUU, los cuales realizan un *lock out* paralizando así el país. Es considerada la obra de ficción más importante de Rand sobre la filosofía objetivista.
+
+- ***Capitalismo: el ideal desconocido***. Este es una colección de ensayos, mayoritariamente de Rand, pero también de sus asociados *Nathaniel Branden*, *Alan Greenspan* y *Robert Hessen*. Se centran en la naturaleza moral del capitalismo liberal y la propiedad privada. Contiene una definición muy específica del capitalismo, el cual consideran un sistema más amplio que simplemente los derechos de propiedad o la libre empresa. Después de la introducción de Rand, el libro de divide en dos secciones: *Teoría e historia* que se centra en las bases teóricas del capitalismo y los argumentos históricos y *Estado actual*, que menciona temas políticos contemporáneos.
+
 ## Rivales Históricos
+Ella nos orienta a sus enemigos, puesto que nunca escondió contra quien dirigió sus esfuerzos. Su némesis era el filósofos alemán ***Immanuel Kant***, al cual detestaba con todas sus fuerzas. A pesar de ser uno de los pensadores más influyentes de la historia, perteneciendo al selecto club que involucraba a Aristóteles entre otros, para Rand la filosofía de Kant no solo estaba equivocada, sino que era intelectualmente deshonesta y maligna. Viendo el imperativo categórico kantiano como una manera de esclavizar al individuo. Por ello la moral randiana reacciona colocando la felicidad individual como máxima absoluta. Su aversión hacia Kant fue tan fuerte que hasta incluso trató de refutar su síntesis del empirismo y el racionalismo, viéndola como un intento de destruir la capacidad del hombre y conocer la realidad objetiva. En consecuencia, planteó la idea de *conceptos*, los cuales existen independientemente de la percepción y son captados por el hombre, según ella.
 
-# Legado en la actualidad
+ ![Immanuel Kant](img/kant.jpg)
 
-## Curiosidades 
+Otro rival que no convivió en su época pero seguro que estaría completamente en contra es ***Karl Marx***. Pues como es obvio, tenían filosofías muy contrarias, siendo Marx socialista, comunista, marxista... Y Rand capitalista, individualista... Pero a parte de eso, Rand demostró que la raíz de la explotación no es el afán de lucro, como decía Marx, sino el hecho de que en una economía mixta como la actual, se le permita a algunas personas usar el poder del gobierno para violar los derechos ajenos. Así, mientras que Marx equiparaba a todos los capitalistas con los compinches y los estafadores, Rand realizó una importante distinción entre ambos, pues los verdaderos capitalistas ganan cuando sus clientes ganan.
 
-# OJO QUE ESTO ESTÁ MAL ↓↓↓
-
-Desarrolló un sistema filosófico conocido como *objetivismo*. Este presenta posturas propias en metafísica, epistemología, ética, política y estética. Sosteniendo la existencia de una realidad absoluta e independiente de la mente del ser humano. Pues para ella el ser humano, a través de la percepción delos sentidos adquiere conocimiento y procesa los datos por medio de la razón.
-
-Defendía el egoísmo nacional, individualismo y el capitalismo. En cambio, rechazaba completamente el socialismo, altruismo y la religión. 
-
+# Curiosidades
+- Era la mayor de tres hermanas de una familia judía, a pesar de que sus padres no eran practicantes.
+- Empezó a escribir novelas y guiones a los 7 años.
+- Aprendió a leer por sí misma a los 6 años y a los 9, tras leer a Victor Hugo, tomó la decisión de convertirse en escritora, poniéndose de inmediato a la tarea.
+- Sus novelas nada más ser publicadas se convertían superventas tanto en Estados Unidos como en el exterior.
+- El movimiento objetivista que fundó fue acusado de ser una secta destructiva con Rand como figura de culto. Pero ella dijo que un seguidor ciego es lo que su filosofía condena y rechaza, por lo que ese movimiento no era una secta mística.
+- La farmacia de su padre fue tomada por la fuerza por el gobierno comunista. Luego los comunistas se llevaron su casa y todo lo que había en ella, por tal de abolir la propiedad privada.
+- Muchas de sus obras se han mencionado brevemente en la sitcom estadounidense *Los Simpson* de manera satírica y crítica con sus planteamientos morales y filosóficos. Además, Ayn Rand da nombre a la guardería de *Springfield*, un centro escolar en el que se aplica a rajatabla la filosofía randniana.
 
 # Opinión Personal 
+Desde nuestro punto de vista, consideramos que la mayoría de nuestras ideologías con semejantes a las de Rand, pues nosotros también estamos más a favor del capitalismo que del comunismo. Y es que tampoco tenemos muchos conocimientos sobre ambos bandos, pero por lo poco que sabemos y por nuestra experiencia personal, viviendo en un país más bien capitalista, nos consideramos de esa parte. Estamos seguros de que para ella uno de los factores que más influyó en su forma de pensar es la situación en la que se encontraba su país natal, pues la Rusia Soviética le haría presenciar en primera persona varias revoluciones que le obligaron a huir. Si nosotros nos hubiéramos encontrado en sus mismas condiciones, también hubiéramos terminado odiando el comunismo, el socialismo y todo lo relacionado con la URSS. También compartimos ideologías como: condenar el reclutamiento forzoso de soldados, que eran equiparados con la esclavitud, defender el derecho absoluto de las mujeres a abortar si lo desean, el antisocialismo, el anticomunismo... 
+Cabe recalcar que hemos escogido a esta filósofa porque queríamos variar con respecto al sexo y poner alguna filósofa, ya que a lo largo de la historia se le ha dado más conocimiento a los filósofos. Asimismo, nos llamó la atención su forma de expresarse, defendiendo siempre el uso de la razón como principal forma de existencia y la cantidad de frases relacionadas con la igualdad y las realidades que ideó. Teniendo también en cuenta que dejaba muy claras sus opiniones sin importarle lo que fueran los demás, puesto que como ya he nombrado, aún perteneciendo a la Rusia más comunista que ha existido, ella siempre ha defendido el capitalismo.
+Además de que viendo la cantidad de gente que estaba y está actualmente a favor, deducimos que era muy buena persona y que respetaba los pensamientos de los otros, siempre que respetaran los suyos por supuesto. Por otro lado, hay varias frases que nos han llamado la atención, como por ejemplo: 
+
+> - No existen pensamientos malvados, excepto uno: el negarse a pensar.
+> - El grado de libertad de un país, es el grado de su progreso.
+> - Lo más difícil de explicar es lo evidente pero que todo el mundo ha decidido no ver.
+
+Con esto, concluimos diciendo que probablemente si existiera a día de hoy, Sería un ejemplo a seguir de mucha gente, y entre ese grupo de gente estaríamos nosotros.

@@ -5,56 +5,41 @@ toc-location: body
 ---
 
 
-<div id="anti" class="sec">
 
 ## Filosofía Antigua: Pitágoras
 
-<div class="flex">
+<div id="pitagoras" class="anima">
 
-<div id="soc"> </div>
 
-<a href="antigua.qmd" role="button" class="btn btn-danger">Info +</a>
-</div>
+<a href="antigua.qmd" role="button" class="btn btn-light">Info +</a>
 </div>
 
 
 ## Filosofía Medieval: Boecio
 
-<div class="boecio" >
+<div id="boecio" class="anima" >
 
-<a href="medieval.qmd" role="button" class="btn btn-danger">Info +</a>
+<a href="medieval.qmd" role="button" class="btn btn-light">Info +</a>
 </div>
 
 ## Filosofía Moderna: Rousseau
 
-<div class="ross">
+<div id="rousseau" class="anima">
 
 <a href="moderna.qmd" role="button" class="btn btn-light">Info +</a>
 </div>
 
-<div id="navegacion">
- <a href="medieval.html" role="button" class="btn btn-danger">Filosofía Medieval</a>
-<br>
-<a href="moderna.html" role="button" class="btn btn-warning">Filosofía Moderna</a>
-<a href="conte.html" role="button" class="btn btn-info">La contemporaneidad</a>
+
+## Contemporaneidad: Ayn Rand
+
+<div id="ayn-rand" class="anima">
+
+<a href="conte.qmd" role="button" class="btn btn-light">Info +</a>
 </div>
 
 
-<br>
+<br><br><br><hr> 
 
-
-
-
-
-
-<button type="button" class="btn btn-primary">Primary</button>
-<button type="button" class="btn btn-secondary">Secondary</button>
-<button type="button" class="btn btn-success">Success</button>
-<button type="button" class="btn btn-danger">Danger</button>
-<button type="button" class="btn btn-warning">Warning</button>
-<button type="button" class="btn btn-info">Info</button>
-<button type="button" class="btn btn-light">Light</button>
-<button type="button" class="btn btn-dark">Dark</button>
-
-
+<div id="webgrafia">
 <button type="button" class="btn btn-link">Link</button>
+</div>

@@ -15,89 +15,21 @@ figcaption {
     text-align: center;
 }
 
-.flex {
+p {
 
-    display: flex;
-
-    gap: 10vw;
-
-    align-items: center;
-
+    text-indent: 1.5vw;
 }
 
-.sec {
+blockquote p {
 
-    opacity: 1;
-
-    padding: 5vmin;
+    text-indent: 0 !important;
 }
 
-.sec:hover {
+a {
 
-    animation-name: example;
-    animation-duration: 2s;
-
-    border-radius: 15vmin;
-
-    background-color: whitesmoke;
+    text-indent: 0 !important;
 }
 
-#soc {
-
-    display: flex;
-
-    height: 65vh;
-
-    width: 90vw;
-
-
-
-    background-image: no-repeat;
-    background-image: fixed;
-    background-image: center;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-
-    animation: carrusel ease;
-
-    animation-iteration-count: infinite;
-
-    animation-duration: 9s;
-
-
-}
-
-
-
-
-
-@keyframes carrusel {
-    0% {
-        background-image: url('/img/Carrusel_Pit/goras.png');
-    }
-
-    20% {
-        background-image: url('/img/Carrusel_Pit/Pitaforas.gif');
-    }
-
-    40% {
-        background-image: url('/img/Carrusel_Pit/Fractal.png');
-    }
-
-    60% {
-        background-image: url('/img/Carrusel_Pit/Pitg.png');
-    }
-
-    80% {
-        background-image: url('/img/Carrusel_Pit/Penta.png');
-    }
-
-    100% {
-        background-image: url('/img/Carrusel_Pit/goras.png');
-    }
-}
 
 .boecio {
 
@@ -118,88 +50,69 @@ figcaption {
 
     align-items: center;
 
-
-
-
 }
 
-.boecio a {
-
-    filter: grayscale(0%) !important;
-}
-
-.boecio:hover {
-    animation: boe 4s;
-
-
-    filter: grayscale(80%);
-}
-
-@keyframes boe {
-    from {
-        filter: grayscale(0%);
-    }
-
-    to {
-        filter: grayscale(80%)
-    }
-}
-
-
-.ross {
+.anima {
 
     background-image: url('/img/Ilus.jpg');
+
     filter: grayscale(70%) saturate(12%) brightness(50%) contrast(100%);
-
-    gap: 10vh;
-
-    justify-content: center;
 
 
     display: flex;
 
-    height: 75vh;
+    justify-content: center;
+    align-items: center;
+
+    width: 100%;
+
+    height: 90vh;
 
     background-size: cover;
 
 }
 
-.ross a {
+.anima:hover {
 
-    margin-top: 7.5vh;
+    animation: iluminar 4s;
+
+    filter: grayscale(0%) saturate(100%) brightness(120%) contrast(100%);
 }
 
-
-.ross:hover {
-
-    animation: ilus 4s;
-
-    filter: grayscale(0%) saturate(120%) brightness(100%) contrast(140%);
-}
-
-@keyframes ilus {
+@keyframes iluminar {
 
     from {
         filter: grayscale(70%) saturate(12%) brightness(50%) contrast(100%)
     }
 
     to {
-        filter: grayscale(0%) saturate(120%) brightness(100%) contrast(140%);
+        filter: grayscale(0%) saturate(100%) brightness(120%) contrast(100%);
 
     }
 }
 
-p {
 
-    text-indent: 1.5vw;
+#pitagoras {
+
+    background-image: url('img/Index/Pit.jpg');
 }
 
-blockquote p {
+#boecio {
 
-    text-indent: 0 !important;
+    background-image: url('img/Index/Boencio.jpg');
 }
 
-a {
+#rousseau {
 
-    text-indent: 0 !important;
+    background-image: url('img/Index/Ilus.jpg');
+}
+
+#ayn-rand {
+
+    background-image: url('img/Index/Ayn.jpg');
+}
+
+#webgrafia {
+
+    text-align: center;
 }
