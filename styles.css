@@ -30,28 +30,6 @@ a {
     text-indent: 0 !important;
 }
 
-
-.boecio {
-
-    background-image: url('/img/Boencio.jpg');
-
-    display: flex;
-    height: 75vh;
-
-    background-image: no-repeat;
-    background-image: fixed;
-    background-image: center;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-
-    justify-content: center;
-
-    align-items: center;
-
-}
-
 .anima {
 
     background-image: url('/img/Ilus.jpg');
