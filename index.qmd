@@ -41,5 +41,5 @@ toc-location: body
 <br><br><br><hr> 
 
 <div id="webgrafia">
-<button type="button" class="btn btn-link">Link</button>
+<a href="webgrafia.md" role="button" class="btn btn-link">Webgrafía</a>
 </div>
