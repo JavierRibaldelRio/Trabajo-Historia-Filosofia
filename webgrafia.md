@@ -2,6 +2,33 @@
 
 # Filosofía Antigua
 
+- [https://redhistoria.com/pitagoras-de-samos/](https://redhistoria.com/pitagoras-de-samos/)
+   
+- [https://www.biografiasyvidas.com/biografia/p/pitagoras.htm](https://www.biografiasyvidas.com/biografia/p/pitagoras.htm)
+   
+- [https://es.wikipedia.org/wiki/Pit%C3%A1goras#Biograf%C3%ADa](https://es.wikipedia.org/wiki/Pit%C3%A1goras#Biograf%C3%ADa)
+   
+- [https://www.biografiasyvidas.com/biografia/p/pitagoras.htm](https://www.biografiasyvidas.com/biografia/p/pitagoras.htm)
+   
+- [https://www.buscabiografias.com/biografia/verDetalle/1231/Pitagoras](https://www.buscabiografias.com/biografia/verDetalle/1231/Pitagoras)
+   
+- [https://es.wikipedia.org/wiki/Pit%C3%A1goras#Biograf%C3%ADa](https://es.wikipedia.org/wiki/Pit%C3%A1goras#Biograf%C3%ADa)
+   
+- [https://redhistoria.com/pitagoras-de-samos/](https://redhistoria.com/pitagoras-de-samos/)
+   
+- [https://www.superprof.es/blog/teorema-pitagoras-clases-mates/](https://www.superprof.es/blog/teorema-pitagoras-clases-mates/)
+   
+- [https://libros.eco/pitagoras-frases-reflexiones-obras/](https://libros.eco/pitagoras-frases-reflexiones-obras/)
+   
+- [https://es.wikipedia.org/wiki/H%C3%ADpaso_de_Metaponto](https://es.wikipedia.org/wiki/H%C3%ADpaso_de_Metaponto)
+   
+- [https://okdiario.com/curiosidades/pitagoras-curiosidades-matematico-2040984](https://okdiario.com/curiosidades/pitagoras-curiosidades-matematico-2040984)
+   
+- [https://libros.eco/pitagoras-de-samos-curiosidades/](https://libros.eco/pitagoras-de-samos-curiosidades/)
+
+- [https://medium.com/@CulturaParaTodos/historia-5-datos-curiosos-de-pit%C3%A1goras-9bca47d68149](https://medium.com/@CulturaParaTodos/historia-5-datos-curiosos-de-pit%C3%A1goras-9bca47d68149)
+
+
 # Filosofía Medieval
 
 # Filosofía Moderna
@@ -47,6 +74,6 @@
     
 -   [https://historia.nationalgeographic.com.es/a/immanuel-kant-razon-sin-ataduras_15093](https://historia.nationalgeographic.com.es/a/immanuel-kant-razon-sin-ataduras_15093)
     
--   [https://www.bbc.com/mundo/noticias-40611669#:~:text=Un%20aspecto%20importante%20de%20la,ganancias%20a%20expensas%20del%20proletariado.](https://www.bbc.com/mundo/noticias-40611669#:~:text=Un%20aspecto%20importante%20de%20la,ganancias%20a%20expensas%20del%20proletariado.)#
+-   [https://www.bbc.com/mundo/noticias-40611669#:~:text=Un%20aspecto%20importante%20de%20la,ganancias%20a%20expensas%20del%20proletariado.](https://www.bbc.com/mundo/noticias-40611669#:~:text=Un%20aspecto%20importante%20de%20la,ganancias%20a%20expensas%20del%20proletariado.)
 
 
