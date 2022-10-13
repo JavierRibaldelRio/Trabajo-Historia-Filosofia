@@ -31,6 +31,24 @@
 
 # Filosofía Medieval
 
+- [https://es.wikipedia.org/wiki/Consolaci%C3%B3n_de_la_filosof%C3%ADa](https://es.wikipedia.org/wiki/Consolaci%C3%B3n_de_la_filosof%C3%ADa)
+ 
+- [https://filosofiapuntes.blogspot.com/2022/02/boecio-contra-eutiques-y-nestorio.html](https://filosofiapuntes.blogspot.com/2022/02/boecio-contra-eutiques-y-nestorio.html)
+ 
+- [https://filosofiapuntes.blogspot.com/2022/01/boecio-sobre-el-silogismo-categorico-de.html](https://filosofiapuntes.blogspot.com/2022/01/boecio-sobre-el-silogismo-categorico-de.html)
+ 
+- [https://filosofiapuntes.blogspot.com/2021/12/boecio-sobre-la-division-de-divisionibus.html](https://filosofiapuntes.blogspot.com/2021/12/boecio-sobre-la-division-de-divisionibus.html)
+ 
+- [https://www.biografiasyvidas.com/biografia/b/boecio.htm](https://www.biografiasyvidas.com/biografia/b/boecio.htm)
+ 
+- [https://es.wikipedia.org/wiki/Boecio](https://es.wikipedia.org/wiki/Boecio)
+ 
+- [https://www.frases333.com/quien-fue-boecio-informacion-sobre-la-vida-de-boecio-el-ultimo-de-los-filosofos-romanos/](https://www.frases333.com/quien-fue-boecio-informacion-sobre-la-vida-de-boecio-el-ultimo-de-los-filosofos-romanos/)
+ 
+- [https://www3.gobiernodecanarias.org/medusa/ecoblog/crodalf/la-edad-media-el-feudalismmo/#:~:text=La%20Edad%20Media%20es%20el,tierra%20y%20en%20el%20vasallaje.](https://www3.gobiernodecanarias.org/medusa/ecoblog/crodalf/la-edad-media-el-feudalismmo/#:~:text=La%20Edad%20Media%20es%20el,tierra%20y%20en%20el%20vasallaje.)
+ 
+- [https://redib.org/Record/oai_articulo2897718-boecio-y-los-ejercicios-espirituales-observaciones-a-los-dos-primeros-carmina-de-la-consolaci%C3%B3n-de-la-filosof%C3%ADa](https://redib.org/Record/oai_articulo2897718-boecio-y-los-ejercicios-espirituales-observaciones-a-los-dos-primeros-carmina-de-la-consolaci%C3%B3n-de-la-filosof%C3%ADa)
+ 
 # Filosofía Moderna
 
 -   [https://es.wikipedia.org/wiki/Edad_Moderna](https://es.wikipedia.org/wiki/Edad_Moderna)
