@@ -3,9 +3,9 @@ title: "Filosofía Antigua: Pitágoras"
 ---
 
 # Contexto Histórico
-La **Edad Antigua** consiste en el conjunto de eventos que sucedieron entre la invención de la escritura y la Antigüedad Tardía, la cual acaba durante el 470 después de Cristo. Esta consistió en un tiempo aproximado de **5000** años. Contando por lo tanto con una gran cantidad de sucesos importantes, por lo que nos limitaremos ha hablar sobre eventos que sucedieron alrededor del siglo durante el cual vivió Pitágoras ( siglos VI y V a. de C. ).
+La **Edad Antigua** consiste en el conjunto de eventos que sucedieron entre la invención de la escritura y la Antigüedad Tardía, la cual acaba durante el 470 después de Cristo. Esta consistió en un tiempo aproximado de **5000** años. Contando por lo tanto con una gran cantidad de sucesos importantes, por lo que nos limitaremos a hablar sobre eventos que sucedieron alrededor del siglo durante el cual vivió Pitágoras (siglos VI y V a. de C).
 
-Algunos de los eventos importantes, relacionados con la filosofía y los diversos cambios sociales que se dieron durante esta época fueron varias de las proezas de **Tales de Mileto**, un filósofo y matemático que, durante el siglo VI antes de Cristo encabezó un grupo de personas que buscaban dar explicaciones lógicas a lo que hasta ahora eran sucesos otorgados a dioses y criaturas mitológicas. Uno de los actos más importantes realizados por este fue el hecho de que predijo con precisión un eclipse solar durante el 28 de mayo del 585 a. C..
+Algunos de los eventos importantes, relacionados con la filosofía y los diversos cambios sociales que se dieron durante esta época fueron varias de las proezas de **Tales de Mileto**, un filósofo y matemático que, durante el siglo VI antes de Cristo encabezó un grupo de personas que buscaban dar explicaciones lógicas a lo que hasta ahora eran sucesos otorgados a dioses y criaturas mitológicas. Uno de los actos más importantes realizados por este fue el hecho de que predijo con precisión un eclipse solar durante el 28 de mayo del 585 a. C.
 
 ![Tales de Mileto](img/tales.jpg)
 
@@ -23,11 +23,11 @@ Más tarde se estableció en una ciudad al sur de Italia llamada Crotona, donde 
 
 # Filosofía
 
-Al Pitágoras tener la costumbre de no dejar nada por escrito, sino de realizar todo de forma oral o dialectal (ni siquiera se tiene ninguna clase de escrito original de Pitágoras en la actualidad) resulta imposible distinguir las ideas del alumno de las del maestro, por lo tanto se exponen las ideas de la escuela de Pitágoras en general, siendo esto el **pitagorismo**. Es más, a esta filosofía se la llega a exponer más como una religión o secta similar al orfismo, o incluso como un estilo de vida.
+Como Pitágoras tener la costumbre de no dejar nada por escrito, sino de realizar todo de forma oral o dialectal (ni siquiera se tiene ninguna clase de escrito original de Pitágoras en la actualidad) resulta imposible distinguir las ideas del alumno de las del maestro, por lo tanto se exponen las ideas de la escuela de Pitágoras en general, siendo esto el **pitagorismo**. Es más, a esta filosofía se la llega a exponer más como una religión o secta similar al orfismo, o incluso como un estilo de vida.
 
 A pesar de no tener ninguna obra original en la actualidad, Pitágoras realizó grandes aportes, los cuales serían de los siguientes campos: matemáticas y geometría, filosofía, astronomía y música.
 
-Pitágoras creía que todo estaba conformado por números, pero esto será más detallado en los siguientes apartados
+Pitágoras creía que todo estaba conformado por números, pero, esto será más detallado en los siguientes apartados:
 
 ## Matemáticas y Geometría
 
@@ -39,7 +39,7 @@ A pesar de esto fue Pitágoras quien teorizó respecto a esto, y realizó una te
 
 También fue la escuela pitagórica quien se encargó de demostrar esto mediante múltiples ejemplos.
 
-Además de esto, algo muy interesante de lo que se puede hablar con respecto a Pitágoras y las matemáticas es el hecho de que el percibía los números de una manera diferente, no solo como objetos abstractos, sino que les asignaba  personalidades, géneros masculino y femenino, si eran bellos o no, o si eran perfectos o imperfectos.
+Además de esto, algo muy interesante de lo que se puede hablar con respecto a Pitágoras y las matemáticas es el hecho de que él percibía los números de una manera diferente, no solo como objetos abstractos, sino que les asignaba  personalidades, géneros masculino y femenino, si eran bellos o no, o si eran perfectos o imperfectos.
 
 No solo esto, sino que además tenía la creencia de que los números conformaban todo, y de que era de lo que se formaba el universo.
 
@@ -92,8 +92,8 @@ No solo eso, sino que su muerte ocurrió durante un naufragio en circunstancias 
 
 Pitágoras fue un filósofo, matemático y astrónomo que entre muchas cosas, se sentía fascinado por los números, hasta tal punto que sus aprendices los idolatraban, y junto a su maestro tenían la creencia de que estos formaban el universo.
 
-Sinceramente, a pesar de realmente Pitágoras tuvo muchos fallos, como descartar la existencia de los números irracionales, sus teorías y sus aportes no solo a las matemáticas, sino que también a la música, geometría y astronomía, sin mencionar la filosofía, fueron impresionantes e increíblemente útiles para los avances que realizó con estos. Siendo así que todos los miembros del grupo llegamos a sentir alguna clase de fascinación con respecto a su trabajo, siendo todo lo que hizo la principal razón de que lo hayamos elegido para realizar este proyecto.
+Sinceramente, a pesar de que realmente Pitágoras tuvo muchos fallos, como descartar la existencia de los números irracionales, sus teorías y sus aportes no solo a las matemáticas, sino que también a la música, geometría y astronomía, sin mencionar la filosofía, fueron impresionantes e increíblemente útiles para los avances que realizó con estos. Siendo así que todos los miembros del grupo llegamos a sentir alguna clase de fascinación con respecto a su trabajo, siendo todo lo que hizo la principal razón de que lo hayamos elegido para realizar este proyecto.
 
 > Solo soy un filósofo
 
-Como un último dato interesante, algo que nos pareció sumamente interesante es que Pitágoras fue uno de los primeros sabios en hacer uso del término *filósofo* que vendría a significar *amante de la sabiduría*. Siendo que una vez, cuando uno de sus aprendices le preguntó si era un sabio el le dijo que "solo soy un filósofo".
+Como un último dato interesante, algo que nos pareció sumamente interesante es que Pitágoras fue uno de los primeros sabios en hacer uso del término *filósofo* que vendría a significar *amante de la sabiduría*. Siendo que una vez, cuando uno de sus aprendices le preguntó si era un sabio él le dijo que "solo soy un filósofo".

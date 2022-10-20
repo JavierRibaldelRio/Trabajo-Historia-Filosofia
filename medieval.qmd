@@ -5,54 +5,54 @@ title: "Filosofía Medieval: Boecio"
   Es el periodo de la historia que se comprendió entre los siglos V y XV. Los hechos históricos que dan inicio a este periodo histórico son la caída del Imperio Romano de Occidente y el Descubrimiento de América.
   Económicamente y socialmente se caracteriza por ser una sociedad estamental en la cual la sociedad se separaba entre los privilegiados y los no privilegiados. Esto era algo marcado por el nacimiento por lo que era completamente imposible cambiar de posición social. 
 
-![Esto es una imagen](img/feu.jpg)
+![Pirámide estamental](img/feu.jpg)
 
-  En cuanto a la política la figura más importante era el rey, el cual por derecho divino en nombre de Dios y porque así lo quería se acataba todo lo que este decía. En esta época era impensable llevarle la contraría al rey ya que esto era sinónimo de llevarle la contraria a Dios y esto era penado con muerte por parte de la iglesia.
+  En cuanto a la política la figura más importante era el rey, el cual por derecho divino en nombre de Dios y porque así lo quería se acataba todo lo que este decía. En esta época era impensable llevarle la contraria al rey ya que esto era sinónimo de llevarle la contraria a Dios y esto era penado con muerte por parte de la iglesia.
 
-![Esto es una imagen](img/V.jpeg)
+![Política medieval](img/V.jpeg)
 
   Debido a esta relevancia en la política hacia lo divino y la presión social que esta producía en los ciudadanos los cuales eran obligados a creer en lo que creía la iglesia. Podemos afirmar que esta era una sociedad teocentrista en la cual los filósofos debían hacer un balance entre la razón y la fe para no ser acusados de herejes y ser castigados por ello.
 
 # Biografía
   Nació poco después del 480 en el seno de una noble familia de terratenientes. Huérfano, fue adoptado por la aun más poderosa familia del senador Símaco, que había sido cónsul con Odoacro en el 485, y cuyo padre también había sido cónsul en el 446. En su juventud recibió una esmerada educación plena de oportunidades. 
-  Se convirtió en el hombre de confianza de Teodorico I el Grande, rey de los ostrogodos, y señor también de Roma, quien en el año 510 le nombró cónsul. Más tarde se casó con Rusticiana, hija de Símaco, con quien tuvo dos hijos los cuales llamó símaco y Boecio.
+  Se convirtió en el hombre de confianza de Teodorico I el Grande, rey de los ostrogodos, y señor también de Roma, quien en el año 510 le nombró cónsul. Más tarde se casó con Rusticiana, hija de Símaco, con quien tuvo dos hijos los cuales llamó Símaco y Boecio.
 
- ![Esto es una imagen](img/boe.jpg)
+ ![Boecio](img/boe.jpg)
 
   Pasado un tiempo, Boecio fue acusado de preparar una traición, fue encarcelado en Pavía y ejecutado posteriormente. Durante su presidio escribió De Consolatione Philosophiae entre otras de sus obras en las que razonó sobre temas existenciales relacionándolos con la presencia de Dios.
 
 # Filosofía
-  Boecio a nivel filosófico discutía sobre la compatibilidad de la libertad humana y la presciencia divina. Para ello elaborada una doctrina que unía elementos neoplatónicos y lógica aristotélica. Su filosofía se caracterizaba por el uso del eclecticismo; inclinación hacia las ciencias exactas; en su uso de la moral y en sus concepciones  marcadas por el estoicismo. También da pensamientos bastante interesantes como su pensamiento sobre la verdadera felicidad ya que la compara con la felicidad que se otorga al hacer lo que Dios pide.
+  Boecio a nivel filosófico discutía sobre la compatibilidad de la libertad humana y la presciencia divina. Para ello elaboró una doctrina que unía elementos neoplatónicos y lógica aristotélica. Su filosofía se caracterizaba por el uso del eclecticismo; inclinación hacia las ciencias exactas; en su uso de la moral y en sus concepciones  marcadas por el estoicismo. También da pensamientos bastante interesantes como su pensamiento sobre la verdadera felicidad ya que la compara con la felicidad que se otorga al hacer lo que Dios pide.
 
 ## Libertad Humana y Presciencia Divina
  En lo esencial, la doctrina de Boecio dice que no es la sola razón humana lo que hace al hombre libre, sino su fin, que es Dios como ser eternamente presente a los procesos necesarios y contingentes del universo. Este pensamiento lo expresa en sus palabras sobre el poder de la oración.
 
-![esto es una imagen](img/lib.jpeg)
+![Ilustración de la libertad](img/lib.jpeg)
 
 ## La felicidad
-  Boecio define la felicidad como “un estado perfecto que reúne a todos los bienes”. Por tanto, la felicidad unifica e integra al hombre. El bien tiene para el hombre razón de fin, ya que él sólo desea el bien. Ahora bien, el verdadero y perfecto Bien es Dios; por tanto, esa es la verdadera búsqueda en la vida.
+  Boecio define la felicidad como “un estado perfecto que reúne a todos los bienes”. Por tanto, la felicidad unifica e integra al hombre. El bien tiene para el hombre razón de fin, ya que él solo desea el bien. Ahora bien, el verdadero y perfecto Bien es Dios; por tanto, esa es la verdadera búsqueda en la vida.
 
-![esto es una imagen](img/psico.jpg)
+![Ilustración de la felicidad](img/psico.jpg)
 
 ## Obras
 
 - **La Consolidación de la Filosofía:** Refleja cómo puede existir el mal en un mundo gobernado por Dios (el problema de la teodicea), y cómo la felicidad todavía es alcanzable en medio de la fortuna voluble, al mismo tiempo que considera la naturaleza de la felicidad y Dios. Es la obra más importante realizada por Boecio
 - **Sobre el silogismo categórico:** Boecio nos dice que se debe entender el concepto de "estar todo en" y "no estar todo en".
-- **La división:** Boecio nos dice que la palabra división puede entenderse de diversos modos. Como genero y especie, todo y parte o voz y significado.
+- **La división:** Boecio nos dice que la palabra división puede entenderse de diversos modos. Como género y especie, todo y parte o voz y significado.
 
 ## Rivales
  
 - **Eutiques:**Este afirmaba a diferencia de Boecio que la naturaleza de Cristo era doble: humana y divina, pero estas eran combinadas en una sola Persona. A Eutiques se le acabó acusando de hereje por afirmar esto en su pensamiento.
 - **Nestorio:** Este afirmaba en contraposición al pensamiento de Boecio que María no sería la Madre de Dios encarnado, sino la Madre de Cristo hombre.
 
-![esto es una imagen](img/nes.jpg)
+![Eutiques y Nestorio](img/nes.jpg)
 
 # Curiosidades
-* Realizó un tratado de lógica influido por la terminología lógica de los medievales, y realizó traducciones y comentarios de las obras de Aristóteles
-* Fue el fundador de la filosofía cristiana de Occidente, proporcionándola las categorías clásicas del pensamiento y los instrumentos dialécticos.
-* En su estancia en prisión también escribió sobre música, aritmética y teología.
+- Realizó un tratado de lógica influido por la terminología lógica de los medievales, y realizó traducciones y comentarios de las obras de Aristóteles
+- Fue el fundador de la filosofía cristiana de Occidente, proporcionándola las categorías clásicas del pensamiento y los instrumentos dialécticos.
+- En su estancia en prisión también escribió sobre música, aritmética y teología.
 
 # Opinión Personal
 Boecio fue un filósofo marcado por el cristianismo por lo que era fiel a Dios en sus razonamientos filosóficos. Aunque pueda parecer que por ello su pensamiento queda desfasado ya que ningún filosofo actual se atrevería a hacer alusión de Dios en su filosofía. Nosotros opinamos que esto no es del todo cierto ya que Boecio trata temas tan actuales como pueden ser la felicidad o el mal existente dándole un toque creyente de la época.
-Desde nuestro punto de vista, Boecio fue un referente para su época y para el mundo de la filosofía ya que aun estando privado de libertad esperando su ejecución en una prisión el se ciño a filosofar sin que le importase nada más.
+Desde nuestro punto de vista, Boecio fue un referente para su época y para el mundo de la filosofía ya que aún estando privado de libertad esperando su ejecución en una prisión el se ciñó a filosofar sin que le importase nada más.
 En conclusión consideramos que si Boecio fuese un filósofo de esta época seria una figura notoria ya que enriquecería el mundo de la filosofía actual con su pensamiento.

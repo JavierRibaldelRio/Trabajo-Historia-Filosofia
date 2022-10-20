@@ -4,7 +4,7 @@ title: "Filosofía Moderna: Rousseau"
 
 # Contexto Histórico
 
-La Edad Moderna es el perido de tiempo comprendido entre el siglo XV y el siglo XVIII. Los hitos históricos asociados al comienzo y al final de este periodo son: el descubrimiento de América (1492) y el inicio de la revolución Francesa (1789).
+La Edad Moderna es el periodo de tiempo comprendido entre el siglo XV y el siglo XVIII. Los hitos históricos asociados al comienzo y al final de este periodo son: el descubrimiento de América (1492) y el inicio de la revolución Francesa (1789).
 
 Económicamente y socialmente, la aparición de la Burguesía (nueva clase social de artesanos enriquecidos con el comercio) es lo más destacable. Estos tratarán de acceder al poder en varias ocasiones hasta conseguirlo con la revolución Francesa. Además, con la conquista de América, surgirá el comercio triangular. Mediente el cual, Europa se enriquecerá a costa de África y América.
 
@@ -21,7 +21,7 @@ Al final de esta etapa aparece, en Europa, la Ilustración: un movimiento impuls
 
 # Biografía
 
-Jean-Jacques Rousseau nació el 28 de Junio de 1712 en Ginebra (Suiza). Fue criado por su tío paterno, del cual heredó la afición por la lectura, que le marcaria a lo largo de toda su vida. Con 16 años conoció a Madame de Warens, quien le ayudó en sus estudios y le aficionó a la música. Además gracias a ella pudo conocer a el filósofo inglés Diderot; años más tarde Rousseau afirmaría que fue como la madre que nunca tuvo. Durante unos años trabajó como peridista. En 1745 se casa con Thérèse Levasseur, una modista analfabeta, tuvó 5 hijos y los ingresó a todos en un orfanato para evitar que los educase su familia política. En 1749 conoció a Voltaire (otro de los principales filósofos ilustrados).
+Jean-Jacques Rousseau nació el 28 de Junio de 1712 en Ginebra (Suiza). Fue criado por su tío paterno, del cual heredó la afición por la lectura, que le marcaría a lo largo de toda su vida. Con 16 años conoció a Madame de Warens, quien le ayudó en sus estudios y le aficionó a la música. Además gracias a ella pudo conocer a el filósofo inglés Diderot; años más tarde Rousseau afirmaría que fue como la madre que nunca tuvo. Durante unos años trabajó como periodista. En 1745 se casa con Thérèse Levasseur, una modista analfabeta, tuvó 5 hijos y los ingresó a todos en un orfanato para evitar que los educase su familia política. En 1749 conoció a Voltaire (otro de los principales filósofos ilustrados).
 
 ![Jean-Jacques Rousseau](/img/ross.jpg)
 
@@ -35,7 +35,7 @@ Rousseau, a nivel filosófico es famoso por dos ámbitos, el ámbito social en g
 
 ## El Ser Humano y la Naturaleza
 
-Rousseau pensaba que el ser humano vive en harmonia con la naturaleza. El ser humano no manda sobre la naturaleza, ya que el humano en su forma original, no razona, es inocente; solo piensa en el amor. El ser humano vive en la naturaleza.
+Rousseau pensaba que el ser humano vive en armonía con la naturaleza. El ser humano no manda sobre la naturaleza, ya que el humano en su forma original, no razona, es inocente; solo piensa en el amor. El ser humano vive en la naturaleza.
 
  Sin embargo con la aparición de la sociedad, el humano, es corrompido, ahora ya no le mueve el amor, sino el odio. Además, la sociedad crea una mascara para la humanidad, bajo la cual tienen que ocultar que han sido corrompidos. Pero también la utilizan para evadirse de la cruda realidad. 
 
@@ -47,7 +47,7 @@ Rousseau pensaba que el ser humano vive en harmonia con la naturaleza. El ser hu
 
 ## Ámbito Social
 
-Rousseau, habla del **Contrato Social**. El individuo desaparece y se fusiona con la sociedad, para poder sobrevivir. Como el ser humano no puede volver al estado de harmonia de la naturaleza, decide unirse a la voluntad colectiva de la socied, la voluntad indiviual desaparece. La **justicia** sustituye a la libertad. Además, obedecer las normas que te impone la sociedad, es obederse a uno mismo, ya tu eres de la sociedad Pero hay que tener cuidado, ya que una cosa es la **voluntad general**, es la que dice la asamblea, mientras que la voluntad general es la del gobernante.
+Rousseau, habla del **Contrato Social**. El individuo desaparece y se fusiona con la sociedad, para poder sobrevivir. Como el ser humano no puede volver al estado de armonía de la naturaleza, decide unirse a la voluntad colectiva de la socied, la voluntad indiviual desaparece. La **justicia** sustituye a la libertad. Además, obedecer las normas que te impone la sociedad, es obederse a uno mismo, ya tu eres de la sociedad Pero hay que tener cuidado, ya que una cosa es la **voluntad general**, es la que dice la asamblea, mientras que la voluntad general es la del gobernante.
 
 Finalmente, según el autor, el gobernante aparece para representar a cada uno de los individuos de la sociedad.
 
@@ -60,17 +60,17 @@ Rousseau opina que el sistema educativo tradicional es erroneo, ya que destruye 
 
 ## Obras
 
-- **La Nueva Eloísa:** una alumna de clase socia alta se enamora de su profresor, de clase social baja
+- **La Nueva Eloísa:** una alumna de clase social alta se enamora de su profresor, de clase social baja
 - **El Contrato Social:** comprende 4 libros, tratan de la relación entre las libertades  de los individuos, con el estado, mediante el contrato social. En este libro define **voluntad general**
 - **Emilo o De la educación:** 5 tomos que habla de como sería la educación ideal de Rousseau para formar *Buenos ciudadanos*
 - **Confessiones de Rousseau:** memorias de Rousseau, para que el autor lo juzge
-- **Ensoñaciones de un Paseante Solitario:** 9 de 10 capítulos que Rousseauquería escribir complementando a la obra anterior. Se publico en 1782, 5 años despues de su muerte
+- **Ensoñaciones de un Paseante Solitario:** 9 de 10 capítulos que Rousseauquería escribir complementando a la obra anterior. Se publicó en 1782, 5 años después de su muerte
 
 !["Du Contract Social"](/img/contrato.jpg)
 
 ## Rivales Históricos
-- **Voltaire:** tenian diferencias ideológicas acerca de Dios. También gran parte de su ribalidad, es a causa de que Rousseau considerava que el hombre era bueno por naturaleza. Difundió la idea de que Rousseau padecía Sífilis<br>
-- **Hume:** son completamente distintos, se dice que la ribalidad entre Rousseau y Hume impulsaría mucho la creación filosófica de este último
+- **Voltaire:** tenian diferencias ideológicas acerca de Dios. También gran parte de su rivalidad, es a causa de que Rousseau consideraba que el hombre era bueno por naturaleza. Difundió la idea de que Rousseau padecía Sífilis<br>
+- **Hume:** son completamente distintos, se dice que la rivalidad entre Rousseau y Hume impulsaría mucho la creación filosófica de este último
 
 
 > Mientras que la visión de Hume era poco arriesgada, moderada, Rousseau era por instinto rebelde; Hume era un optimista, Rousseau un pesimista. Hume era gregario, Rousseau, un solitario. Rousseau se deleitaba en la paradoja; Hume reverenciaba la claridad. El lenguaje de Rousseau era pirotécnico y emotivo; el de Hume, directo y desapasionado
@@ -80,20 +80,20 @@ Rousseau opina que el sistema educativo tradicional es erroneo, ya que destruye 
 
 # Curiosidades
 
-- Sus últimos días de su vida los dedico a la botánica, descubrió alrededor de 25 especies de planta
+- Sus últimos días de su vida los dedicó a la botánica, descubrió alrededor de 25 especies de planta
 - Nunca le gustaría ser un *ilustrado*, ya que el aborrece a la sociedad
 - Sus restos descansan en el Panteón de los Franceses Ilustres (aunque es suizo), a pocos metrireos de su *gran amigo* Voltaire
 - Propuso una nueva forma de notación musical, que fue rechazada por no soportar la polirritmia ni la polifonía.
-- Maria Antonienta (en cierta forma *una causa de la revolución francesa* ), visitó la tumba de Rousseau (uno de los principales aborrecedores del antiguo régimen)
+- María Antonienta (en cierta forma *una causa de la revolución francesa* ), visitó la tumba de Rousseau (uno de los principales aborrecedores del antiguo régimen)
 
 ![Tumba de Rousseau](/img/Tumba.JPG)
 
 
 # Opinión Personal 
 
-Rousseau fue un filósofo ilustrado que defendía que la bondad de los seres humanos viene de la naturaleza, mientras que toda la maldad de los humanos provenía de la sociedad, de los valores y educación que obtenemos de esta. Esta tesis es muy profunda, ya que podemos extender esta pregunta a otras característias del ser humano. Qué nos viene dado de forma inata y qué aprendemos de la sociedad. También podemos extender esta tesis al campo científico, donde sirve de base para realizar muchos estudios acerca del los capacidades y valores primigenios que tenemos imbuido por la naturaleza. 
+Rousseau fue un filósofo ilustrado que defendía que la bondad de los seres humanos viene de la naturaleza, mientras que toda la maldad de los humanos provenía de la sociedad, de los valores y educación que obtenemos de esta. Esta tesis es muy profunda, ya que podemos extender esta pregunta a otras característias del ser humano. Qué nos viene dado de forma innata y qué aprendemos de la sociedad. También podemos extender esta tesis al campo científico, donde sirve de base para realizar muchos estudios acerca del los capacidades y valores primigenios que tenemos imbuido por la naturaleza. 
 
-Por otra parte en el campo de la eduacación, Rousseau fue un avanzado a su tiempo intentando fomentar una educación que no se centre en el aprendicaje del alumno. Sino en desarollar su capacidad para obtener conocimiento de la naturaleza, del cual aprender. También fue innovador en el hecho de que el objetivo de su educación no sea el alumno se esfuerce por aprender. Lo cual desde algunos puntos de vista puede resultar irónico. 
+Por otra parte en el campo de la eduacación, Rousseau fue un avanzado a su tiempo intentando fomentar una educación que no se centre en el aprendicaje del alumno. Sino en desarollar su capacidad para obtener conocimiento de la naturaleza, de la cual aprender. También fue innovador en el hecho de que el objetivo de su educación no sea el alumno se esfuerce por aprender. Lo cual desde algunos puntos de vista puede resultar irónico. 
 
 Hemos elegido a Rousseau principalmente por dos motivos. Primero, porque lo tenemos muy reciente ya que en 4º lo nombran bastantes veces (aunque no se profundiza mucho en el). Y segundo, porque es uno de los filósofos más importantes de un periodo que nos llama mucho  la atención: la **Ilustración**
 
