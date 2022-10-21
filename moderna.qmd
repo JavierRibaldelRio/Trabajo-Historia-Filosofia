@@ -100,3 +100,12 @@ Hemos elegido a Rousseau principalmente por dos motivos. Primero, porque lo tene
 Para concluir con Rousseau, hemos puesto una cita que creemos firmemente que resume su linea de pensamiento.
 
 > El primero que, habiendo cercado un pedazo de tierra, se le ocurrió decir: esto es mío, y encontró gente lo suficientemente simple como para creerlo, fue el verdadero fundador de la vida civil
+
+
+<div class="final">
+<div>
+<a role="button" class="btn btn-secondary" href="medieval.html" title="Volver a la peste negra">Anterior: Filosofía Medieval</a><a role="button" class="btn btn-success" href="conte.html" title="Que comience la Revolución Francesa">Siguiente: La Contemporaneidad</a>
+</div>
+
+<a role="button" class="btn btn-primary" href="index.html" >Volver a la Página Principal</a>
+</div>

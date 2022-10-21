@@ -59,7 +59,7 @@ En conclusión consideramos que si Boecio fuese un filósofo de esta época seri
 
 <div class="final">
 <div>
-<a role="button" class="btn btn-secondary" href="medieval.html" title="Redescubrir la escritura">Anterior: Filosofía Antigua</a><a role="button" class="btn btn-success" href="moderna.html" title="Descubrir América">Siguiente: Filosofía Moderna</a>
+<a role="button" class="btn btn-secondary" href="antigua.html" title="Redescubrir la escritura">Anterior: Filosofía Antigua</a><a role="button" class="btn btn-success" href="moderna.html" title="Descubrir América">Siguiente: Filosofía Moderna</a>
 </div>
 
 <a role="button" class="btn btn-primary" href="index.html" >Volver a la Página Principal</a>
