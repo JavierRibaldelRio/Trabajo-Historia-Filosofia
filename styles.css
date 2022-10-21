@@ -32,6 +32,32 @@ a {
     text-indent: 0 !important;
 }
 
+
+.final {
+
+    display: flex;
+
+    width: 100%;
+
+    height: 30vh;
+
+    justify-content: center;
+
+    align-items: center;
+
+    gap: 3vmin;
+
+    margin: 3vmin;
+
+    flex-direction: column;
+}
+
+.final div a {
+
+    margin: 4vmin;
+}
+
+/* Animacioes portada */
 .anima {
 
     background-image: url('/img/Ilus.jpg');

@@ -97,3 +97,12 @@ Sinceramente, a pesar de que realmente Pitágoras tuvo muchos fallos, como desca
 > Solo soy un filósofo
 
 Como un último dato interesante, algo que nos pareció sumamente interesante es que Pitágoras fue uno de los primeros sabios en hacer uso del término *filósofo* que vendría a significar *amante de la sabiduría*. Siendo que una vez, cuando uno de sus aprendices le preguntó si era un sabio él le dijo que "solo soy un filósofo".
+
+
+<div class="final">
+<div>
+<a role="button" class="btn btn-success" href="medieval.html" title="Que caiga el Imperio Romano">Siguiente: Filosofía Medieval</a>
+</div>
+
+<a role="button" class="btn btn-primary" href="index.html" >Volver a la Página Principal</a>
+</div>

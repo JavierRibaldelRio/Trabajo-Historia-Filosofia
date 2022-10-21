@@ -56,3 +56,11 @@ title: "Filosofía Medieval: Boecio"
 Boecio fue un filósofo marcado por el cristianismo por lo que era fiel a Dios en sus razonamientos filosóficos. Aunque pueda parecer que por ello su pensamiento queda desfasado ya que ningún filosofo actual se atrevería a hacer alusión de Dios en su filosofía. Nosotros opinamos que esto no es del todo cierto ya que Boecio trata temas tan actuales como pueden ser la felicidad o el mal existente dándole un toque creyente de la época.
 Desde nuestro punto de vista, Boecio fue un referente para su época y para el mundo de la filosofía ya que aún estando privado de libertad esperando su ejecución en una prisión el se ciñó a filosofar sin que le importase nada más.
 En conclusión consideramos que si Boecio fuese un filósofo de esta época seria una figura notoria ya que enriquecería el mundo de la filosofía actual con su pensamiento.
+
+<div class="final">
+<div>
+<a role="button" class="btn btn-secondary" href="medieval.html" title="Redescubrir la escritura">Anterior: Filosofía Antigua</a><a role="button" class="btn btn-success" href="moderna.html" title="Descubrir América">Siguiente: Filosofía Moderna</a>
+</div>
+
+<a role="button" class="btn btn-primary" href="index.html" >Volver a la Página Principal</a>
+</div>
