@@ -49,7 +49,14 @@ a {
 
     margin: 3vmin;
 
-    flex-direction: column;
+    flex-direction: row;
+}
+
+.final div p {
+
+    display: flex;
+
+    flex-direction: column-reverse;
 }
 
 .final div a {

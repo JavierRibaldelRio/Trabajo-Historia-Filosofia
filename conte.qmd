@@ -75,7 +75,7 @@ Con esto, concluimos diciendo que probablemente si existiera a día de hoy, Ser�
 
 <div class="final">
 <div>
-<a role="button" class="btn btn-secondary" href="moderna.html" title="Repetir las guerras mundiales">Anterior: Filosofía Moderna</a><a role="button" class="btn btn-success" href="conclusiones.html" title="Para concluir...">Conclusiones</a>
+<a role="button" class="btn btn-secondary" href="moderna.html" title="Repetir las guerras mundiales">Anterior: Filosofía Moderna</a>
 </div>
 
 <a role="button" class="btn btn-primary" href="index.html" >Volver a la Página Principal</a>

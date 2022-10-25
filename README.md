@@ -1,7 +1,7 @@
-# Trabajo-Historia-Filosofia
+# Trabajo Historia de la Filosofia
 
 ## Descripcion
-Página web para un trabajo escolar de la asignatura de Filosofía en 1º de Bachillerato en España. La página almacena información sobre importantes filósofos a lo largo del tiempo
+Página web para un trabajo escolar de la asignatura de Filosofía en 1º de Bachillerato en España. La página contiene información sobre importantes filósofos a lo largo del tiempo
 
 La web es accesible desde aquí: [https://historia-de-la-filosofia.netlify.app/](https://historia-de-la-filosofia.netlify.app/)
 
