@@ -14,4 +14,4 @@ La web es accesible desde aquí: [https://historia-de-la-filosofia.netlify.app/]
 
 Para realizar esta web se ha utilizado [Quarto](https://quarto.org/). Y la IDE VScode
 
-Este repositorio está archivado ya que el trabajo a concluido 
+Este repositorio está archivado ya que el trabajo ha concluido 
